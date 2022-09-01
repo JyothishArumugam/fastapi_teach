@@ -4,3 +4,6 @@ aiofiles
 sqlalchemy
 python-dotenv
 passlib[bcrypt]
+pytest
+requests
+pre-commit
